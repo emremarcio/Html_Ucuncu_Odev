@@ -1,0 +1,1 @@
+[Kodluyoruz.org](https://www.kodluyoruz.org) ve [Patika.dev](https://www.patika.dev) 'in HTML dersinde verilen üçüncü ödevdir.
